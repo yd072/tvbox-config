@@ -7,7 +7,7 @@
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
-            "api": "json/jianpian.json",
+            "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.githubusercontent.com/yd072/tvbox-config/main/json/jianpian.json",
