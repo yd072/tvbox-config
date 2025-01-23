@@ -1,1 +1,23 @@
-
+{
+    "spider": "https://你的cloudflare域名.pages.dev/jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "sites": [
+        {
+            "key": "荐片",
+            "name": "荐片┃P2P",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://你的cloudflare域名.pages.dev/json/jianpian.json",
+            "jar": "https://你的cloudflare域名.pages.dev/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+        }
+    ],
+    "parses": [
+        {"name":"解析聚合","type":3,"url":"Web"},
+        {"name":"8090g","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
+        {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
+        {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"虾米2","type":0,"url":"https://jx.xmflv.cc/?url="}
+    ]
+} 
