@@ -14,6 +14,7 @@
             "ext": "https://tv.菜妮丝.top/json/jianpian.json",
             "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
         }
-    ]
-
+    ],
+    "parses": [
+        {"name":"解析聚合","type":3,"url":"Web"},{"name":"8090g","type":0,"url":"https://www.8090g.cn/jiexi/?url="},{"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},{"name":"虾米2","type":0,"url":"https://jx.xmflv.cc/?url="}]
 }
