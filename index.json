@@ -11,31 +11,6 @@
             "changeable": 1,
             "ext": "https://cdn.jsdelivr.net/gh/yd072/tvbox-config@main/json/jianpian.json",
             "jar": "https://cdn.jsdelivr.net/gh/yd072/tvbox-config@main/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-        },
-        {
-            "key": "Lib",
-            "name": "Lib┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {"from":"4k|auto"}
-        },
-        {
-            "key": "低端",
-            "name": "低端┃直连",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "七夜",
-            "name": "七夜┃云盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0
         }
     ],
     "parses": [
