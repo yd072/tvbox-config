@@ -18,7 +18,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://cdn.jsdelivr.net/gh/yd072/tvbox-config@main/json/jianpian.json",
-            "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+            "jar": "https://cdn.jsdelivr.net/gh/yd072/tvbox-config@main/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
         },
         {
             "key": "酷看",
