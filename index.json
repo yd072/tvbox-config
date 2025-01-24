@@ -7,7 +7,7 @@
             "key": "荐片",
             "name": "荐片┃P2P",
             "type": 3,
-            "api": "csp_Jianpian",
+            "api": "./js/jianpian.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/jianpian.js",
