@@ -10,7 +10,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/yd072/tvbox-config/main/jianpian.json",
+            "ext": "./js/jianpian.js",
             "jar": "https://raw.githubusercontent.com/yd072/tvbox-config/main/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
         }
     ],
