@@ -1,7 +1,5 @@
 {
-    "spider": "jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
-    "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "spider": "https://tv.菜妮丝.top/jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
     "sites": [
         {
             "key": "荐片",
@@ -10,10 +8,33 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/json/jianpian.json",
-            "jar": "https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+            "ext": "https://tv.菜妮丝.top/json/jianpian.json",
+            "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+        },
+        {
+            "key": "巴士",
+            "name": "巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+        },
+        {
+            "key": "异界",
+            "name": "异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
         }
     ],
     "parses": [
-        {"name":"解析聚合","type":3,"url":"Web"},{"name":"8090g","type":0,"url":"https://www.8090g.cn/jiexi/?url="},{"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},{"name":"虾米2","type":0,"url":"https://jx.xmflv.cc/?url="}]
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Web"
+        }
+    ]
 }
