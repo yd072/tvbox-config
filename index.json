@@ -1,5 +1,5 @@
 {
-    "spider": "https://tv.菜妮丝.top/jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
+    "spider": "jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
     "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
@@ -10,7 +10,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://tv.菜妮丝.top/json/jianpian.json",
+            "ext": "json/jianpian.json",
             "jar": "jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
         }
     ],
