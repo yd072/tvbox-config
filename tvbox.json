@@ -27,8 +27,30 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "categories": ["电影", "电视剧", "综艺", "动漫", "纪录片"],
-        "ext": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/jianpian.json"
+        "ext": {
+          "classes": [
+            {
+              "type_id": "1",
+              "type_name": "电影"
+            },
+            {
+              "type_id": "2",
+              "type_name": "电视剧"
+            },
+            {
+              "type_id": "3",
+              "type_name": "综艺"
+            },
+            {
+              "type_id": "4",
+              "type_name": "动漫"
+            },
+            {
+              "type_id": "5",
+              "type_name": "纪录片"
+            }
+          ]
+        }
       }
     ],
     "parses": [
