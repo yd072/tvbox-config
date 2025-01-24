@@ -27,7 +27,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/json/jianpian.json"
+        "categories": ["电影", "电视剧", "综艺", "动漫", "纪录片"],
+        "ext": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/jianpian.json"
       }
     ],
     "parses": [
