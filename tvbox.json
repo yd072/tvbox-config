@@ -34,7 +34,7 @@
       "key": "荐片影视JS",
       "name": "荐片影视JS",
       "type": 3,
-      "api": "./js/drpymin2.js",
+      "api": "js/drpymin2.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
