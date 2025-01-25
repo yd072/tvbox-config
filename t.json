@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar",
+    "spider": "https://github.com/yd072/tvbox-config/blob/main/jar/Butterfly.jarr;md5;5EAAE4B083C5FC6C47C1CC0A204364B2",
     "sites": [
         {
             "key": "豆豆推荐",
