@@ -19,17 +19,17 @@
     }
   ],
   "sites": [
-    {
-      "key": "Jianpian",
-      "name": "🗂️ 荐片 | 视频",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tv.菜妮丝.top/json/jianpian.json"
-    }
+        {
+            "key": "荐片影视JS",
+            "name": "荐片影视JS",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/jianpian.js"
+        }
   ],
   "parses": [
     {
