@@ -1,7 +1,7 @@
 var rule = {
     title:'荐片',
-    host:'http://api2.rinhome.com',
-    homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
+    host:'https://api2.jpysvip.net',
+    homeUrl:'/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
     class_name:'电影&电视剧&动漫&综艺&全部',
     class_url:'1&2&3&4&0',
@@ -13,8 +13,8 @@ var rule = {
     filter:{'0': [{'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '0'}, {'n': '2023', 'v': '153'}, {'n': '2022', 'v': '101'}, {'n': '2021', 'v': '118'}, {'n': '2020', 'v': '16'}, {'n': '2019', 'v': '7'}, {'n': '2018', 'v': '2'}, {'n': '2017', 'v': '3'}, {'n': '2016', 'v': '22'}]}, {'key': 'sort', 'name': '排序', 'value': [{'n': '热门', 'v': 'hot'}, {'n': '评分', 'v': 'rating'}, {'n': '更新', 'v': 'update'}]}], '1': [{'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '0'}, {'n': '2023', 'v': '153'}, {'n': '2022', 'v': '101'}, {'n': '2021', 'v': '118'}, {'n': '2020', 'v': '16'}, {'n': '2019', 'v': '7'}, {'n': '2018', 'v': '2'}, {'n': '2017', 'v': '3'}, {'n': '2016', 'v': '22'}]}, {'key': 'sort', 'name': '排序', 'value': [{'n': '热门', 'v': 'hot'}, {'n': '评分', 'v': 'rating'}, {'n': '更新', 'v': 'update'}]}], '2': [{'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '0'}, {'n': '2023', 'v': '153'}, {'n': '2022', 'v': '101'}, {'n': '2021', 'v': '118'}, {'n': '2020', 'v': '16'}, {'n': '2019', 'v': '7'}, {'n': '2018', 'v': '2'}, {'n': '2017', 'v': '3'}, {'n': '2016', 'v': '22'}]}, {'key': 'sort', 'name': '排序', 'value': [{'n': '热门', 'v': 'hot'}, {'n': '评分', 'v': 'rating'}, {'n': '更新', 'v': 'update'}]}], '3': [{'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '0'}, {'n': '2023', 'v': '153'}, {'n': '2022', 'v': '101'}, {'n': '2021', 'v': '118'}, {'n': '2020', 'v': '16'}, {'n': '2019', 'v': '7'}, {'n': '2018', 'v': '2'}, {'n': '2017', 'v': '3'}, {'n': '2016', 'v': '22'}]}, {'key': 'sort', 'name': '排序', 'value': [{'n': '热门', 'v': 'hot'}, {'n': '评分', 'v': 'rating'}, {'n': '更新', 'v': 'update'}]}], '4': [{'key': 'year', 'name': '年代', 'value': [{'n': '全部', 'v': '0'}, {'n': '2023', 'v': '153'}, {'n': '2022', 'v': '101'}, {'n': '2021', 'v': '118'}, {'n': '2020', 'v': '16'}, {'n': '2019', 'v': '7'}, {'n': '2018', 'v': '2'}, {'n': '2017', 'v': '3'}, {'n': '2016', 'v': '22'}]}, {'key': 'sort', 'name': '排序', 'value': [{'n': '热门', 'v': 'hot'}, {'n': '评分', 'v': 'rating'}, {'n': '更新', 'v': 'update'}]}]},
     filter_url:'sort={{fl.sort or "hot"}}&year={{fl.year or "0"}}',
     headers:{
-		'User-Agent':'jianpian-android/350',
-		'JPAUTH':'y261ow7kF2dtzlxh1GS9EB8nbTxNmaK/QQIAjctlKiEv'
+		'User-Agent':'jianpian-android/353',
+		'JPAUTH':'xtJP3A5s2VPrOVjz4q0LPm6sL6ydQi9jRbQxYPjNWLk'
 	},
     timeout:5000,
     limit:8,
