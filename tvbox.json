@@ -30,18 +30,18 @@
       "changeable": 1,
       "ext": "https://tv.菜妮丝.top/json/jianpian.json"
     },
-        {
-            "key": "荐片影视JS",
-            "name": "荐片影视JS",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/jianpian.js"
-            "jar": "./jar/Butterfly.jar"
-        }
+  {
+      "key": "荐片影视JS",
+      "name": "荐片影视JS",
+      "type": 3,
+      "api": "./js/drpymin2.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/jianpian.js"
+      "jar": "./jar/Butterfly.jar"
+  }
   ],
   "parses": [
     {
