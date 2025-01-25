@@ -39,8 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/荐片.js"
-      "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
+      "ext": "https://tv.菜妮丝.top/json/jianpian.json"
   }
   ],
   "parses": [
