@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;5EAAE4B083C5FC6C47C1CC0A204364B2",
+    "spider": "https://mirror.ghproxy.com/https://github.com/yd072/tvbox-config/blob/main/jar/Butterfly.jar;md5;5EAAE4B083C5FC6C47C1CC0A204364B2",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -250,12 +250,12 @@
             "key": "荐片影视JS",
             "name": "荐片影视JS",
             "type": 3,
-            "api": "./js/drpymin2.js",
+            "api": "https://mirror.ghproxy.com/https://github.com/yd072/tvbox-config/blob/main/js/drpymin2.js",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/荐片.js"
+            "ext": "https://mirror.ghproxy.com/https://github.com/yd072/tvbox-config/blob/main/js/jianpian.js"
         },
         {
             "key": "苹果影视",
