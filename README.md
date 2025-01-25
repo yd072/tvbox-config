@@ -14,3 +14,9 @@ https://ghfast.top/https://raw.githubusercontent.com/yd072/tvbox-config/refs/hea
 ```shell
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/index.json
 ```
+```shell
+https://ghfast.top/https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/moyu.json
+```
+```shell
+https://ghfast.top/https://raw.githubusercontent.com/yd072/tvbox-config/refs/heads/main/moyu.json
+```
