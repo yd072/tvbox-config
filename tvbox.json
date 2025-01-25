@@ -29,17 +29,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://tv.菜妮丝.top/json/jianpian.json"
-    },
-        {
-            "key": "酷奇音乐",
-            "name": "酷奇音乐",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/kuqimv.js"
-        }
+    }
   ],
   "parses": [
     {
