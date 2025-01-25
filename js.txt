@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://112.124.0.131:20000"
+            "ext": "https://tv.菜妮丝.top/json/jianpian.json"
         }
     ],
     "parses": [
