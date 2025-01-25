@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/香雅情.js",
+    "spider": "https://gitdl.cn/https://gitdl.cn/https://github.com/yd072/tvbox-config/blob/main/js/%E9%A6%99%E9%9B%85%E6%83%85.js",
     "lives": [
         {
           "name": "本地live文件",
