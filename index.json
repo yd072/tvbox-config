@@ -1,5 +1,23 @@
 {
     "spider": "https://tv.菜妮丝.top/jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
+      "lives": [
+    {
+      "name": "直播ipv6",
+      "type": "0",
+      "pass": true,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yd072/tv/refs/heads/main/itvlist.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "第三方源|不保存可用",
+      "type": "0",
+      "pass": true,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
     "sites": [
         {
             "key": "荐片",
